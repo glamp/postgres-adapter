@@ -17,8 +17,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jugglingdb/postgres.git"
+    "url": "https://github.com/glamp/postgres-adapter.git"
   },
-  "author": "Anatoliy Chakkaev <mail@anatoliy.in>",
+  "author": "Greg Lamp <greg@yhathq.com>",
   "license": "MIT"
 }
